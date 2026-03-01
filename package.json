@@ -1,0 +1,41 @@
+{
+	"name": "@kokiito0926/genindex",
+	"version": "0.0.0",
+	"private": false,
+	"description": "ファイルの一覧のインデックスを生成することができるコマンドラインのツールです。",
+	"keywords": [
+		"cli",
+		"bash",
+		"shell",
+		"script",
+		"nodejs",
+		"index",
+		"genindex"
+	],
+	"homepage": "https://github.com/kokiito0926/genindex#readme",
+	"publishConfig": {
+		"access": "public"
+	},
+	"bin": {
+		"genindex": "index.js"
+	},
+	"bugs": {
+		"url": "https://github.com/kokiito0926/genindex/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kokiito0926/genindex.git"
+	},
+	"license": "MIT",
+	"author": "Koki Ito <kokiito0926@gmail.com>",
+	"type": "module",
+	"scripts": {
+		"test": "node --test"
+	},
+	"dependencies": {
+		"zx": "^8.8.4"
+	},
+	"engines": {
+		"node": ">=24.0.0"
+	}
+}
