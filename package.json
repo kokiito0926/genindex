@@ -1,6 +1,6 @@
 {
 	"name": "@kokiito0926/genindex",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"private": false,
 	"description": "ファイルの一覧のインデックスを生成することができるコマンドラインのツールです。",
 	"keywords": [
