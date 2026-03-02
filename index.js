@@ -59,7 +59,7 @@ const finalHtml = `
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>File Index</title>
+		<title>Index of ${target}</title>
 		<style>
 			body { font-family: monospace; }
 			ul { list-style-type: none; padding: 0; margin: 0; }
